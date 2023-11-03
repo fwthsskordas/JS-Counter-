@@ -1,0 +1,12 @@
+body {
+  width: 99vw;
+  height: 90vh;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  text-align: center;
+}
